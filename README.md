@@ -7,9 +7,9 @@ TastyBites is a dynamic, full-stack food ordering web application built using **
 ## 🔧 Tech Stack
 
 - **Backend**: Spring Boot (Java), Spring MVC, Spring Data JPA
-- **Database**: H2 / MySQL (configurable)
+- **Database**: SQLite (configurable)
 - **Build Tool**: Maven
-- **Frontend**: (Optional - React/HTML if integrated separately)
+- **Frontend**: (HTML,css,js)
 - **Version Control**: Git + GitHub
 
 ---
